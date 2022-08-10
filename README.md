@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Charanreddy Sunkara
+## Hi there 👋 I'm Sunkara Charan Reddy
 ### 
 
 <head>
@@ -6,10 +6,10 @@
 </head>
 
 
-- 👋 Hi, I’m @charan-sunkara <br>
+- 👋 Hi, I’m @s-charanreddy <br>
 - 🧑‍🎓I'm a self-learned programmer <br>
 - 🌱 I’m currently learning ... machine learning <br>
-- 👨‍ I'm currently a pre-final year student at GMR Institute Of Technology.<br>
+- 👨‍ I'm currently a final year student at GMR Institute Of Technology.<br>
 - 🚀 I'm currently TECH-LEAD at ACM-GMRIT <br>
 - 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision <br>
 - 📫 How to reach me: ... charanreddysunkara@gmail.com <br>
