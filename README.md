@@ -28,7 +28,7 @@
 </div>
 
 <div align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan-sunkara&show_icons=true&locale=en&theme=highcontrast" alt="badagalaadarsh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-charanreddy&show_icons=true&locale=en&theme=highcontrast" alt="badagalaadarsh" /></p>
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-sunkara&layout=compact&langs_count=10&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-charanreddy&layout=compact&langs_count=10&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -48,7 +48,7 @@
 <div align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charan-sunkara&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-charanreddy&theme=highcontrast)](https://git.io/streak-stats)
 
 </div>
 
