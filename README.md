@@ -8,10 +8,8 @@
 
 - 👋 Hi, I’m @s-charanreddy <br>
 - 🧑‍🎓I'm a self-learned programmer <br>
-- 🌱 I’m currently learning ... Deep Learning <br>
-- 👨‍ I'm currently a final year student at GMR Institute Of Technology.<br>
-- 🚀 I'm currently TECH-LEAD at ACM-GMRIT <br>
-- 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision <br>
+-  Currently Working as Member Technical @ADP with Architecture Team.
+- 🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision <br>
 - 📫 How to reach me: ... charanreddysunkara@gmail.com <br>
 
 <br>
