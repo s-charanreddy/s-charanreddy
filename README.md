@@ -7,8 +7,7 @@
 
 
 - 👋 Hi, I’m @s-charanreddy <br>
-- 🧑‍🎓I'm a self-learned programmer <br>
--  Currently Working as Member Technical @ADP with Architecture Team.
+-  Currently Working as Software Engineer @ADP with Architecture Team.
 - 🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision <br>
 - 📫 How to reach me: ... charanreddysunkara@gmail.com <br>
 
