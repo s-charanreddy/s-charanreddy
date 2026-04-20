@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sunkara Charan Reddy
+## Hi there
 ### 
 
 <head>
@@ -7,8 +7,8 @@
 
 
 - 👋 Hi, I’m @s-charanreddy <br>
--  Currently Working as Software Engineer @ADP with Architecture Team.
-- 🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision <br>
+-  Currently Working as Software Engineer at Metlife with their Retirement and Income Services Team.
+- 🤔 Areas of Interest: Java, AI<br>
 - 📫 How to reach me: ... charanreddysunkara@gmail.com <br>
 
 <br>
