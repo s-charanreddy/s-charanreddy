@@ -25,7 +25,7 @@
 </div>
 
 <div align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-charanreddy&show_icons=true&locale=en&theme=highcontrast" alt="badagalaadarsh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-charanreddy&show_icons=true&locale=en&theme=highcontrast"/></p>
 </div>
 
 <div align="center">
